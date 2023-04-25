@@ -1,12 +1,17 @@
 {
-  "name": "fluentui-emoji",
+  "name": "fluent-emoji",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "web-component",
+    "emoji",
+    "fluent",
+    "microsoft"
+  ],
+  "author": "Sean McPherson <sean@seanmcp.com> (https://seanmcp.com)",
   "license": "ISC"
 }
